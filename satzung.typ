@@ -50,13 +50,16 @@
 
 == Mitgliedschaft
 
-+ Ordentliche Vereinsmitglieder können natürliche und juristische Personen,
++ Der Verein hat ordentliche Mitglieder, Ehren- und Fördermitglieder.
++ Ordentliche Mitglieder können nur natürliche Personen werden.
++ Ehrenmitglieder können von der Mitgliederversammlung ernannt werden, wenn sie
+  sich besondere Verdienste um den Verein oder um die von ihm verfolgten
+  satzungsgemäßen Zwecke erworben haben. Ehrenmitglieder haben alle Rechte eines
+  ordentlichen Mitglieds.
++ Fördermitglied kann jede natürliche oder juristische Person,
   Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und
-  Körperschaften des öffentlichen Rechts werden.
-+ Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste
-  um den Verein oder um die von ihm verfolgten satzungsgemässen Zwecke erworben
-  haben, zu Ehrenmitgliedern ernennen. Ehrenmitglieder haben alle Rechte eines
-  ordentlichen Mitglieds. Sie sind von Beitragsleistungen befreit.
+  Körperschaften des öffentlichen Rechts werden. Fördermitglieder haben kein
+  Stimm- und Rederecht auf Mitgliederversammlungen.
 
 == Erwerb der Mitgliedschaft
 
@@ -102,17 +105,24 @@
   festgesetzt werden.
 + Bei Beendigung der Mitgliedschaft verfällt der für das laufende Jahr gezahlte
   Beitrag. Es besteht kein Anspruch auf Rückerstattung.
++ Ehrenmitglieder sind von Beitragsleistungen befreit.
 
 == Rechte und Pflichten der Mitglieder
 
-+ Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu
-  nehmen.
-+ Die Mitglieder sind insbesondere berechtigt, die Vereinsräume und
++ Ordentliche Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch
+  zu nehmen.
++ Ordentliche Mitglieder sind insbesondere berechtigt, die Vereinsräume und
   Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der
   Mitgliederversammlung beschlossen werden kann.
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu
   unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge
   zu zahlen.
++ Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliedsversammlung
+  das aktive und passive Wahlrecht. Es wird von ihnen erwartet, dass sie an
+  Abstimmungen teilnehmen.
++ Fördermitglieder können in der Mitgliederversammlung Anträge stellen und
+  werden ebenso umfassend wie ordentliche Mitglieder und Ehrenmitglieder über
+  alle Beschlüsse des Vereins informiert.
 
 == Organe des Vereins
 
@@ -153,10 +163,9 @@
   zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder;
   vor der Abstimmung ist die Beschlussfähigkeit festzustellen. In allen anderen
   Fällen genügt die einfache Mehrheit.
-+ Jedes Mitglied hat eine Stimme. Juristische Personen haben einen
-  Stimmberechtigten schriftlich zu bestellen.
-+ Auf Antrag eines Mitglieds ist geheim abzustimmen. Über die Beschlüsse der
-  Mitgliederversammlung ist ein Protokoll anzufertigen, das vom
++ Jedes stimmberechtigte Mitglied hat eine Stimme.
++ Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen. Über die
+  Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom
   Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll
   ist allen Mitgliedern zugänglich zu machen und auf der nächsten
   Mitgliederversammlung genehmigen zu lassen.
