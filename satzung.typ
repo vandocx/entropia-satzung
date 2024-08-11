@@ -76,8 +76,8 @@
   Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und
   Körperschaften des öffentlichen Rechts oder durch Ausschluss.
 + Der Austritt erfolgt durch Erklärung in Textform gegenüber einem Mitglied des
-  Vorstands. Der Austritt ist nur zum Schluss eines Kalenderjahres unter
-  Einhaltung einer Kündigungsfrist von drei Monaten zulässig.
+  Vorstands. Der Austritt ist nur zum Schluss eines Quartals unter Einhaltung
+  einer Kündigungsfrist von einem Monat zulässig.
 + Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn
   es das Ansehen des Vereins schädigt, in schwerwiegender Weise gegen diese
   Satzung oder gegen eine Vereinsordnung verstößt oder ein sonstiger wichtiger
