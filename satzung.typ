@@ -123,7 +123,7 @@
 == Mitgliederversammlung
 
 + Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung
-  unterliegen:
+  unterliegen insbesondere:
   - die Genehmigung des Finanzberichtes,
   - die Entlastung des Vorstandes,
   - die Wahl der einzelnen Vorstandsmitglieder,
@@ -131,11 +131,12 @@
   - Satzungsänderungen,
   - die Genehmigung der Beitragsordnung,
   - die Genehmigung der Nutzungsordnung,
+  - die Genehmigung der Wahlordnung,
   - die Richtlinie über die Erstattung von Reisekosten und Auslagen,
   - Anträge des Vorstandes und der Mitglieder,
   - die Ernennung von Ehrenmitgliedern,
   - die Auflösung des Vereins.
-+ Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt.
++ Die ordentliche Mitgliederversammlung findet jedes Jahr statt.
   Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes
   abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn
   mindestens 1/3 der Mitglieder dies unter Angabe des Zwecks schriftlich
@@ -159,14 +160,20 @@
   Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll
   ist allen Mitgliedern zugänglich zu machen und auf der nächsten
   Mitgliederversammlung genehmigen zu lassen.
-+ Der Vorsitzende leitet die Versammlung, bei Verhinderung seine Vertretung. Ist
-  auch diese verhindert, bestimmt die Versammlung einen Versammlungsleiter.
++ Die Versammlung wird von einem Mitglied des Vorstands geleitet, welches zu
+  Beginn der Versammlung vom anwesenden Vorstand bestimmt wird. Sind alle
+  Vorstandsmitglieder verhindert, bestimmt die Versammlung die
+  Versammlungsleitung. Die aktuelle Versammlungsleitung kann die Aufgabe auf
+  eine andere Person übertragen. Die Versammlungsleitung kann zur Durchführung
+  der Versammlung weitere Personen zur Unterstützung hinzuziehen.
 
 == Der Vorstand
 
-+ Der Vorstand besteht aus drei Mitgliedern: aus einem Vorsitzenden, einem
-  Kassenwart und einem Schriftführer. Sie werden für 2 Jahre gewählt (Wiederwahl
-  ist zulässig). Der Vorstand bleibt bis zur Wahl eines neuen Vorstandes im Amt.
++ Der Vorstand besteht aus mindestens drei gleichberechtigten Mitgliedern. Sie
+  werden für 2 Jahre gewählt. Wiederwahl ist zulässig. Näheres bestimmt eine von
+  der Mitgliederversammlung zu verabschiedende Wahlordnung. Diese ist von der
+  Mitgliederversammlung zu verabschieden. Der Vorstand bleibt bis zur Wahl eines
+  neuen Vorstands im Amt.
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB.
   Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten,
   gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
@@ -177,7 +184,7 @@
   gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 + Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter;
   er kann diese Aufgabe einem Vorstandsmitglied übertragen.
-+ Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des
++ Der Vorstand überwacht die Haushaltsführung und verwaltet das Vermögen des
   Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung
   hinzuwirken. Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die
   Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von
@@ -187,28 +194,27 @@
   Anspruch auf Erstattung notwendiger Auslagen im Rahmen einer von der
   Mitgliederversammlung zu beschließenden Richtlinie über die Erstattung von
   Reisekosten und Auslagen.
-+ Der Vorstand kann einen „Wissenschaftlichen Beirat“ einrichten und auflösen,
-  der für den Verein beratend und unterstützend tätig wird; in den Beirat können
-  auch Nicht-Mitglieder berufen werden.
++ Der Vorstand kann Beiräte einrichten und auflösen, die für den Verein beratend
+  und unterstützend tätig werden; in die Beiräte können auch Nicht-Mitglieder
+  berufen werden.
 + Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten
   Neuwahlen einberufen werden. Zwischenzeitlich wird vom verbleibenden Vorstand
   ein Stellvertreter bestellt.
 
 == Beschlussfassung des Vorstands
 
-+ Zu den Vorstandssitzungen lädt der Vorsitzende ein. Die Einberufung hat zu
-  erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt. Der
-  Vorstand ist mit einer Frist von mindestens 7 Tagen in Textform einzuberufen.
-  Bei unaufschiebbaren Ereignissen ist der Vorstand notfalls fernmündlich oder
-  in Textform mit einer Frist von mindestens 3 Tagen einzuberufen. Mit
-  Zustimmung aller Vorstandsmitglieder kann jederzeit je Veranlassung auf die
-  Einhaltung von Ladungsfristen verzichtet werden.
-+ Der Vorstand ist beschlussfähig, wenn mindestens zwei Mitglieder anwesend
-  sind. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder
-  gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Beschlüsse
-  können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich
-  oder im Rahmen von Netzkonferenzen o.Ä. gefasst werden. In diesen Fällen ist
-  unverzüglich ein Beschlussprotokoll anzufertigen und allen
++ Zu den Vorstandssitzungen lädt ein Vorstandsmitglied ein. Der Vorstand ist mit
+  einer Frist von mindestens 7 Tagen in Textform einzuberufen. Bei
+  unaufschiebbaren Ereignissen ist der Vorstand notfalls fernmündlich oder in
+  Textform mit einer Frist von mindestens 3 Tagen einzuberufen. Mit Zustimmung
+  aller Vorstandsmitglieder kann jederzeit je Veranlassung auf die Einhaltung
+  von Ladungsfristen verzichtet werden.
++ Der Vorstand ist beschlussfähig, wenn über die Hälfte seiner Mitglieder
+  anwesend sind. Beschlüsse werden mit einfacher Mehrheit der anwesenden
+  Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
+  Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch,
+  fernschriftlich oder im Rahmen von Netzkonferenzen o.Ä. gefasst werden. In
+  diesen Fällen ist unverzüglich ein Beschlussprotokoll anzufertigen und allen
   Vorstandsmitgliedern in Textform zuzusenden. Auf Verlangen von einem
   Vorstandsmitglied sind derartige Beschlüsse bei der nächsten Vorstandssitzung
   zu bestätigen. Geschieht dies nicht, so gelten sie als aufgehoben. Im übrigen
@@ -220,8 +226,8 @@
 == Rechnungsprüfung
 
 + Die Mitgliederversammlung wählt jeweils für die Dauer von zwei Geschäftsjahren
-  zwei Rechnungsprüfer, die nicht Mitglieder des Vorstandes sind. Eine
-  Wiederwahl ist zulässig.
+  mindestens zwei Rechnungsprüfer, die nicht Mitglieder des Vorstandes sind.
+  Eine Wiederwahl ist zulässig.
 + Die Rechnungsprüfer prüfen die Kassen- und Rechnungsführung des Vorstandes
   nach Ablauf eines jeden Geschäftsjahres und berichten darüber auf der
   ordentlichen Mitgliederversammlung.
