@@ -163,11 +163,12 @@
   vor der Abstimmung ist die Beschlussfähigkeit festzustellen. In allen anderen
   Fällen genügt die einfache Mehrheit.
 + Jedes stimmberechtigte Mitglied hat eine Stimme.
-+ Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen. Über die
-  Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom
-  Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll
-  ist allen Mitgliedern zugänglich zu machen und auf der nächsten
-  Mitgliederversammlung genehmigen zu lassen.
++ Abstimmungen erfolgen auf Antrag eines stimmberechtigten Mitglieds geheim.
+  Wahlen erfolgen immer geheim. Über die Beschlüsse der Mitgliederversammlung
+  ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem
+  Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern
+  zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu
+  lassen.
 + Die Versammlung wird von einem Mitglied des Vorstands geleitet, welches zu
   Beginn der Versammlung vom anwesenden Vorstand bestimmt wird. Sind alle
   Vorstandsmitglieder verhindert, bestimmt die Versammlung die
