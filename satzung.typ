@@ -113,7 +113,9 @@
   zu nehmen.
 + Ordentliche Mitglieder sind insbesondere berechtigt, die Vereinsräume und
   Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der
-  Mitgliederversammlung beschlossen werden kann.
+  Mitgliederversammlung beschlossen werden kann. Die Mitgliederversammlung kann
+  den Vorstand ermächtigen, Änderungen und Ergänzungen an der Nutzungsordnung
+  insgesamt oder für bestimmte Bereiche vorzunehmen.
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu
   unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge
   zu zahlen.
