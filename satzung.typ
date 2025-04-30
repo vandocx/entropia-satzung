@@ -18,7 +18,6 @@
 
 == Vereinszweck
 
-
 + Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im
   Sinne der Abgabenordnung.
 + Der Zweck des Vereins ist die Förderung der Erziehung, Volks- und
@@ -258,11 +257,8 @@ Drittels der Mitglieder durchzuführen.
 
 == Auflösung
 
-+ Über verbleibendes Vereinsvermögen wird mit Auflösungsbeschluss befunden. Es
-  ist vom Übernehmer unmittelbar und ausschließlich für gemeinnützige Zwecke im
-  Sinne der Förderung der Vereinsziele zu verwenden. Beschlüsse über zukünftige
-  Verwendung des Vermögens dürfen erst nach Einwilligung des Finanzamtes
-  ausgeführt werden.
-+ Der Übernehmer wird von der Mitgliederversammlung bestimmt und muss eine
-  Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte
-  Körperschaft sein.
++ Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das
+  Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder
+  eine andere steuerbegünstigte Korperschaft zwecks Verwendung für Förderung der
+  Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe.
++ Der Übernehmer wird von der Mitgliederversammlung bestimmt.
