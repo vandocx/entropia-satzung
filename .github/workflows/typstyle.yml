@@ -1,0 +1,22 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+      - formatted-main
+  pull_request:
+
+permissions: {}
+
+jobs:
+  typstyle:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - run: |
+          cargo install typstyle --locked
+          typstyle --check --wrap-text *.typ
